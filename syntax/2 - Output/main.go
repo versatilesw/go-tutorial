@@ -88,7 +88,7 @@ func printFormatting() {
 	fmt.Printf("%g\n", m)
 }
 
-func outputExample() {
+func main() {
 	printExample()
 	printlnExample()
 	printfExample()

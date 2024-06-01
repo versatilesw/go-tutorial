@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func operatorExample() {
+func main() {
 	{
 		var (
 			sum1 = 100 + 50    // 150 (100 + 50)

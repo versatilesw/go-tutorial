@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func pointerExample() {
+func main() {
 	{
 		var p *int
 

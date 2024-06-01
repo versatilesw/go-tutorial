@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func sliceExample() {
+func main() {
 	{
 		myslice1 := []int{}
 		fmt.Println(len(myslice1))

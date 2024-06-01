@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func basicDataTypesExample() {
+func main() {
 	var a bool = true    // Boolean
 	var b int = 5        // Integer
 	var c float32 = 3.14 // Floating point number

@@ -9,7 +9,7 @@ type Person struct {
 	salary int
 }
 
-func structExample() {
+func main() {
 	{
 		var pers1 Person
 		var pers2 Person

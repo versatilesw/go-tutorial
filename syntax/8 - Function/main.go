@@ -35,7 +35,7 @@ func testcount(x int) int {
 	return testcount(x + 1)
 }
 
-func functionExample() {
+func main() {
 	familyName("Liam")
 	familyName("Jenny")
 	familyName("Anja")
