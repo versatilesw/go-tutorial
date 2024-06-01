@@ -3,5 +3,7 @@ package main
 func main() {
 	// variableExample()
 	// outputExample()
-	dataTypesExample()
+	// dataTypesExample()
+	// arrayExample()
+	sliceExample()
 }
