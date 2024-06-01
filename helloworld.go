@@ -6,5 +6,6 @@ func main() {
 	// dataTypesExample()
 	// arrayExample()
 	// sliceExample()
-	operatorExample()
+	// operatorExample()
+	loopExamples()
 }
