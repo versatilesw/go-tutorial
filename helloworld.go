@@ -1,6 +1,7 @@
 package main
 
 func main() {
-	variableExample()
-	outputExample()
+	// variableExample()
+	// outputExample()
+	dataTypesExample()
 }
