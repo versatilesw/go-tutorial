@@ -7,5 +7,6 @@ func main() {
 	// arrayExample()
 	// sliceExample()
 	// operatorExample()
-	loopExamples()
+	// loopExamples()
+	functionExample()
 }
