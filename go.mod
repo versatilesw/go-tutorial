@@ -1,3 +1,3 @@
-module example.com/hello
+module myproject
 
 go 1.22.3
