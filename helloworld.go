@@ -8,5 +8,6 @@ func main() {
 	// sliceExample()
 	// operatorExample()
 	// loopExamples()
-	functionExample()
+	// functionExample()
+	structExample()
 }
