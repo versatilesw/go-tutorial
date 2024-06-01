@@ -1,6 +1,6 @@
 package main
 
-import utils "myproject/utils"
+// import utils "myproject/utils"
 
 func main() {
 	// variableExample()
@@ -12,5 +12,6 @@ func main() {
 	// loopExamples()
 	// functionExample()
 	// structExample()
-	utils.MapExample()
+	// utils.MapExample()
+	pointerExample()
 }
