@@ -1,5 +1,7 @@
 package main
 
+import utils "myproject/utils"
+
 func main() {
 	// variableExample()
 	// outputExample()
@@ -9,5 +11,6 @@ func main() {
 	// operatorExample()
 	// loopExamples()
 	// functionExample()
-	structExample()
+	// structExample()
+	utils.MapExample()
 }
